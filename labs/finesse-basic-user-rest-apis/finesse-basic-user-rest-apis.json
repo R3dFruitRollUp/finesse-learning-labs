@@ -3,7 +3,7 @@
   "title": "Finesse – Basic User REST APIs",
   "slug": "Learn the basic Finesse User REST APIs",
   "time": 15,
-  "byod": false,
+  "byod": true,
   "tags": [
     {"title": "Collaboration"},
     {"title": "Finesse"},
