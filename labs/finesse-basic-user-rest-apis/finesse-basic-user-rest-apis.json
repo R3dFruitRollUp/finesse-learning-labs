@@ -17,6 +17,40 @@
     {"title": "4.md"},
     {"title": "5.md"}
   ],
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/devnet/sandbox/\" target=\"_blank\">DevNet Sandbox</a>",
+  "replaceAtRender": {
+    "default": [
+      {
+        "type": "leaseInfo",
+        "fields": {
+          "host": "{{Finesse_FQDN}}",
+          "UserA_username": "{{UserA_username}}",
+          "UserA_password": "{{UserA_password}}",
+          "UserA_extension": "{{UserA_extension}}"
+        }
+      }
+    ]
+  },
+  "vms": {
+    "default": [
+      {
+        "type": "http",
+        "interfaceName": "Finesse Sandbox 1",
+        "host": "64.103.26.58",
+        "UserA_username": "user001",
+        "UserA_password": "cisco1234",
+        "UserA_extension": "5001"
+      },
+      {
+        "type": "http",
+        "interfaceName": "Finesse Sandbox 2",
+        "host": "64.103.26.58",
+        "UserA_username": "user003",
+        "UserA_password": "cisco1234",
+        "UserA_extension": "5003"
+      }
+    ]
+  },
   "authors": [
   	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
   ],
