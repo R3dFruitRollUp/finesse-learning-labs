@@ -1,0 +1,35 @@
+{
+  "labId": "finesse-basic-supervisor-rest-apis-with-xmpp-events",
+  "title": "Finesse – Basic Supervisor REST APIs with XMPP Events",
+  "slug": "Learn the basic Finesse supervisor REST APIs with XMPP Events",
+  "time": 25,
+  "byod": true,
+  "tags": [
+    {"title": "Collaboration"},
+    {"title": "Finesse"},
+    {"title": "REST"},
+    {"title": "XMPP"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"},
+    {"title": "7.md"},
+    {"title": "8.md"},
+    {"title": "9.md"},
+    {"title": "10.md"},
+    {"title": "11.md"},
+    {"title": "12.md"},
+    {"title": "13.md"},
+    {"title": "14.md"}
+  ],
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/devnet/sandbox/\" target=\"_blank\">DevNet Sandbox</a>",
+  "authors": [
+  	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
+  ],
+  "active": true
+}

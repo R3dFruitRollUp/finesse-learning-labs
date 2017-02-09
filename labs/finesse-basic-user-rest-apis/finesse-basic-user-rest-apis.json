@@ -15,22 +15,10 @@
     {"title": "2.md"},
     {"title": "3.md"},
     {"title": "4.md"},
-    {"title": "5.md"}
+    {"title": "5.md"},
+    {"title": "6.md"}
   ],
   "poweredBy": "<a href=\"https://developer.cisco.com/site/devnet/sandbox/\" target=\"_blank\">DevNet Sandbox</a>",
-  "replaceAtRender": {
-    "default": [
-      {
-        "type": "leaseInfo",
-        "fields": {
-          "host": "{{Finesse_FQDN}}",
-          "uname": "{{UserA_username}}",
-          "pwd": "{{UserA_password}}",
-          "ext": "{{UserA_extension}}"
-        }
-      }
-    ]
-  },
   "authors": [
   	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
   ],
