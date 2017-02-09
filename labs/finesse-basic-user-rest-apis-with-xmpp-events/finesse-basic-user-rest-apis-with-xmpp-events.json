@@ -21,6 +21,13 @@
     {"title": "7.md"},
     {"title": "8.md"}
   ],
+  "replaceAtRender": {
+    "default": [
+      {
+        "type": "leaseInfo"
+      }
+    ]
+  },
   "poweredBy": "<a href=\"https://developer.cisco.com/site/devnet/sandbox/\" target=\"_blank\">DevNet Sandbox</a>",
   "authors": [
     {"name": "Denise Kwan", "email": "dekwan@cisco.com"}
