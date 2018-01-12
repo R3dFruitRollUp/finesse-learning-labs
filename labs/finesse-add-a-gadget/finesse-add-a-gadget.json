@@ -1,0 +1,47 @@
+{
+  "labId": "finesse-add-a-gadget",
+  "title": "Finesse – Add a Finesse Gadgets to the Agent Desktop",
+  "slug": "Learn how to add a Finesse gadget to the Agent Desktop",
+  "time": 25,
+  "byod": true,
+  "tags": [
+    {"title": "Collaboration"},
+    {"title": "Finesse"},
+    {"title": "Gadget"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "Download a Finesse sample gadget",
+    "file": "1.md"},
+    {"title": "Enable the 3rdpartygadget account",
+    "file": "2.md"},
+    {"title": "Upload the sample gadget",
+    "file": "3.md"},
+    {"title": "Add the gadget to the agent's desktop layout",
+    "file": "4.md"},
+    {"title": "View the Desktop Layout change for Agent Role",
+    "file": "5.md"},
+    {"title": "View the Desktop Layout change for Supervisor Role",
+    "file": "6.md"},
+    {"title": "Add the gadget to a new tab",
+    "file": "7.md"},
+    {"title": "View the Desktop Layout change for Agent Role",
+    "file": "8.md"},
+    {"title": "Add a column to the Embedded Gadget tab",
+    "file": "9.md"},
+    {"title": "View the Desktop Layout change for Agent Role",
+    "file": "10.md"}
+  ],
+  "replaceAtRender": {
+    "default": [
+      {
+        "type": "leaseInfo"
+      }
+    ]
+  },
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/sandbox\" target=\"_blank\">DevNet Sandbox</a>",
+  "authors": [
+  	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
+  ],
+  "active": true
+}
