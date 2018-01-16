@@ -1,0 +1,39 @@
+{
+  "labId": "finesse-hello-world-gadget",
+  "title": "Finesse – Build a Hello World Gadget",
+  "slug": "Learn about Finesse gadgets and build a Hello World gadget",
+  "time": 20,
+  "byod": true,
+  "tags": [
+    {"title": "Collaboration"},
+    {"title": "Finesse"},
+    {"title": "Gadget"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "Finesse Gadgets Overview",
+    "file": "1.md"},
+    {"title": "Learn about Finesse gadgets",
+    "file": "2.md"},
+    {"title": "Create a Finesse gadget",
+    "file": "3.md"},
+    {"title": "Upload the gadget to a web server",
+    "file": "4.md"},
+    {"title": "Add the gadget to the desktop layout",
+    "file": "5.md"},
+    {"title": "View the gadget on the Agent Desktop",
+    "file": "6.md"}
+  ],
+  "replaceAtRender": {
+    "default": [
+      {
+        "type": "leaseInfo"
+      }
+    ]
+  },
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/sandbox\" target=\"_blank\">DevNet Sandbox</a>",
+  "authors": [
+  	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
+  ],
+  "active": true
+}

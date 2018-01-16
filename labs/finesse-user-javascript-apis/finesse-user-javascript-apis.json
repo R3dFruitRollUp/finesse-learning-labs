@@ -1,0 +1,45 @@
+{
+  "labId": "finesse-user-javascript-api",
+  "title": "Finesse – User JavaScript APIs",
+  "slug": "Learn how to use the User JavaScript APIs",
+  "time": 25,
+  "byod": true,
+  "tags": [
+    {"title": "Collaboration"},
+    {"title": "Finesse"},
+    {"title": "Gadgets"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "Setting Up your Workspace",
+    "file": "1.md"},
+    {"title": "Set Up the XML file",
+    "file": "2.md"},
+    {"title": "Laying down the groundwork",
+    "file": "3.md"},
+    {"title": "Create the User Object",
+    "file": "4.md"},
+    {"title": "Getting User Data",
+    "file": "5.md"},
+    {"title": "Changing the User data",
+    "file": "6.md"},
+    {"title": "Upload the gadget to a web server",
+    "file": "7.md"},
+    {"title": "Add the gadget to the desktop layout",
+    "file": "8.md"},
+    {"title": "View the gadget on the Agent Desktop",
+    "file": "9.md"}
+  ],
+  "replaceAtRender": {
+    "default": [
+      {
+        "type": "leaseInfo"
+      }
+    ]
+  },
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/sandbox\" target=\"_blank\">DevNet Sandbox</a>",
+  "authors": [
+  	{"name": "Denise Kwan", "email": "dekwan@cisco.com"}
+  ],
+  "active": true
+}
