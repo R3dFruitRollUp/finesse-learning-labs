@@ -12,14 +12,22 @@
     {"title": "Beginner"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},
-    {"title": "7.md"},
-    {"title": "8.md"}
+    {"title": "VPN to the Finesse server",
+    "file": "1.md"},
+    {"title": "Check the status of Finesse",
+    "file": "2.md"},
+    {"title": "Sign in UserA to the XMPP client",
+    "file": "3.md"},
+    {"title": "Get UserA's information",
+    "file": "4.md"},
+    {"title": "Sign in UserA to Finesse",
+    "file": "5.md"},
+    {"title": "Change UserA's state",
+    "file": "6.md"},
+    {"title": "Sign out UserA from Finesse",
+    "file": "7.md"},
+    {"title": "Deleting UserA's from XMPP client",
+    "file": "8.md"}
   ],
   "replaceAtRender": {
     "default": [

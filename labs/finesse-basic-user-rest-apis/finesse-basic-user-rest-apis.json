@@ -11,12 +11,18 @@
     {"title": "Beginner"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"}
+    {"title": "VPN to the Finesse server",
+    "file": "1.md"},
+    {"title": "Check the status of Finesse",
+    "file": "2.md"},
+    {"title": "Get UserA's information",
+    "file": "3.md"},
+    {"title": "Sign in UserA to Finesse",
+    "file": "4.md"},
+    {"title": "Change UserA's state",
+    "file": "5.md"},
+    {"title": "Sign out UserA from Finesse",
+    "file": "6.md"}
   ],
   "replaceAtRender": {
     "default": [
