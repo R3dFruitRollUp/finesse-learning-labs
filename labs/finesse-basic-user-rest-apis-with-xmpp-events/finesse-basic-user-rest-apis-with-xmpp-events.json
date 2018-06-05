@@ -1,7 +1,7 @@
 {
   "labId": "finesse-basic-user-rest-apis-with-xmpp-events",
   "title": "Finesse – Basic User REST APIs with XMPP Events",
-  "slug": "Learn the basic Finesse User REST APIs with XMPP Events",
+  "slug": "Learn the basic Finesse user REST APIs with XMPP events",
   "time": 20,
   "byod": true,
   "tags": [
@@ -16,17 +16,17 @@
     "file": "1.md"},
     {"title": "Check the status of Finesse",
     "file": "2.md"},
-    {"title": "Sign in UserA to the XMPP client",
+    {"title": "Sign in userA to the XMPP client",
     "file": "3.md"},
-    {"title": "Get UserA's information",
+    {"title": "Get userA's information",
     "file": "4.md"},
-    {"title": "Sign in UserA to Finesse",
+    {"title": "Sign in userA to Finesse",
     "file": "5.md"},
-    {"title": "Change UserA's state",
+    {"title": "Change userA's state",
     "file": "6.md"},
-    {"title": "Sign out UserA from Finesse",
+    {"title": "Sign out userA from Finesse",
     "file": "7.md"},
-    {"title": "Deleting UserA's from XMPP client",
+    {"title": "Deleting userA's from XMPP client",
     "file": "8.md"}
   ],
   "replaceAtRender": {
