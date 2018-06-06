@@ -11,23 +11,23 @@
     {"title": "Beginner"}
   ],
   "files": [
-    {"title": "Setting Up your Workspace",
+    {"title": "Setting up your workspace",
     "file": "1.md"},
     {"title": "Set Up the XML file",
     "file": "2.md"},
     {"title": "Laying down the groundwork",
     "file": "3.md"},
-    {"title": "Create the User Object",
+    {"title": "Create the user object",
     "file": "4.md"},
-    {"title": "Getting User Data",
+    {"title": "Getting user data",
     "file": "5.md"},
-    {"title": "Changing the User data",
+    {"title": "Changing the user data",
     "file": "6.md"},
     {"title": "Upload the gadget to a web server",
     "file": "7.md"},
     {"title": "Add the gadget to the desktop layout",
     "file": "8.md"},
-    {"title": "View the gadget on the Agent Desktop",
+    {"title": "View the gadget on the agent desktop",
     "file": "9.md"}
   ],
   "replaceAtRender": {

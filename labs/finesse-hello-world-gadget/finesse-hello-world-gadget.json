@@ -11,7 +11,7 @@
     {"title": "Beginner"}
   ],
   "files": [
-    {"title": "Finesse Gadgets Overview",
+    {"title": "Finesse gadgets overview",
     "file": "1.md"},
     {"title": "Learn about Finesse gadgets",
     "file": "2.md"},
@@ -21,7 +21,7 @@
     "file": "4.md"},
     {"title": "Add the gadget to the desktop layout",
     "file": "5.md"},
-    {"title": "View the gadget on the Agent Desktop",
+    {"title": "View the gadget on the agent desktop",
     "file": "6.md"}
   ],
   "replaceAtRender": {

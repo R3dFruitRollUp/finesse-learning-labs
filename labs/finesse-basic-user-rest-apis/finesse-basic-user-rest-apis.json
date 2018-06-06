@@ -15,13 +15,13 @@
     "file": "1.md"},
     {"title": "Check the status of Finesse",
     "file": "2.md"},
-    {"title": "Get UserA's information",
+    {"title": "Get information about userA'",
     "file": "3.md"},
-    {"title": "Sign in UserA to Finesse",
+    {"title": "Sign in userA to Finesse",
     "file": "4.md"},
-    {"title": "Change UserA's state",
+    {"title": "Change the state of userA",
     "file": "5.md"},
-    {"title": "Sign out UserA from Finesse",
+    {"title": "Sign out userA from Finesse",
     "file": "6.md"}
   ],
   "replaceAtRender": {

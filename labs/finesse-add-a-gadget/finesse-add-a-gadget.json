@@ -1,7 +1,7 @@
 {
   "labId": "finesse-add-a-gadget",
-  "title": "Finesse – Add a Finesse Gadgets to the Agent Desktop",
-  "slug": "Learn how to add a Finesse gadget to the Agent Desktop",
+  "title": "Finesse – Add a Finesse Gadget to the Agent Desktop",
+  "slug": "Learn how to add a Finesse gadget to the agent desktop",
   "time": 25,
   "byod": true,
   "tags": [
@@ -19,17 +19,17 @@
     "file": "3.md"},
     {"title": "Add the gadget to the desktop layout",
     "file": "4.md"},
-    {"title": "View the layout change for Agent Role",
+    {"title": "View the layout change for agent role",
     "file": "5.md"},
-    {"title": "View the layout for Supervisor Role",
+    {"title": "View the layout for supervisor role",
     "file": "6.md"},
     {"title": "Add the gadget to a new tab",
     "file": "7.md"},
-    {"title": "View the layout change for Agent Role",
+    {"title": "View the layout change for agent role",
     "file": "8.md"},
     {"title": "Add a column to the layout",
     "file": "9.md"},
-    {"title": "View the layout change for Agent Role",
+    {"title": "View the layout change for agent role",
     "file": "10.md"}
   ],
   "replaceAtRender": {
